@@ -1,0 +1,47 @@
+.:
+total 24
+drwxrwxr-x  6 kali kali 4096 Oct  2 11:22 .
+drwx------ 20 kali kali 4096 Oct  2 11:00 ..
+drwxrwxr-x  2 kali kali 4096 Oct  2 11:18 archives
+drwxrwxr-x  2 kali kali 4096 Oct  2 11:23 ex00
+drwxrwxr-x  3 kali kali 4096 Oct  2 11:19 projects
+drwxrwxr-x  2 kali kali 4096 Oct  2 11:18 tools
+
+./archives:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  2 11:18 .
+drwxrwxr-x 6 kali kali 4096 Oct  2 11:22 ..
+
+./ex00:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  2 11:23 .
+drwxrwxr-x 6 kali kali 4096 Oct  2 11:22 ..
+-rw-rw-r-- 1 kali kali    0 Oct  2 11:23 tree_structure.txt
+
+./projects:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  2 11:19 .
+drwxrwxr-x 6 kali kali 4096 Oct  2 11:22 ..
+drwxrwxr-x 4 kali kali 4096 Oct  2 11:19 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 kali kali 4096 Oct  2 11:19 .
+drwxrwxr-x 3 kali kali 4096 Oct  2 11:19 ..
+drwxrwxr-x 2 kali kali 4096 Oct  2 11:19 backend
+drwxrwxr-x 2 kali kali 4096 Oct  2 11:19 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  2 11:19 .
+drwxrwxr-x 4 kali kali 4096 Oct  2 11:19 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  2 11:19 .
+drwxrwxr-x 4 kali kali 4096 Oct  2 11:19 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  2 11:18 .
+drwxrwxr-x 6 kali kali 4096 Oct  2 11:22 ..
